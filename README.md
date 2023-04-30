@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashrafuj Jaman Tanbin</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **The-Dragon-News**
+- 🔭 I’m currently working on [The-Dragon-News](https://the-news-dragon-77326.web.app/)
 
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **react, node js, mongoDB**
+
+- 📫 How to reach me **ashrafujj.jaman.tanbin@gmail.com**
+
+- ⚡ Fun fact **I can learn anything very fast!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
