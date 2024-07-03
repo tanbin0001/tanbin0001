@@ -32,3 +32,55 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbin0001&show_icons=true&locale=en&layout=compact" alt="tanbin0001" /></p>
 
+<h1>Current Stats</h1>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+
+<br/>
+
+<br/>
+
+<p align="center">
+   <a href="https://github.com/tanbin0001">
+      <img 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=tanbin0001&theme=radical&border=7F3FBF&background=0D1117" 
+         alt="tanbin0001 GitHub streak" 
+         width="70%"
+      />
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/tanbin0001">
+      <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanbin0001&theme=radical" 
+         alt="tanbin0001 GitHub Contribution" 
+         width="100%" 
+      />
+   </a>
+</p>
+
+<p style="display: flex; align-items: center; justify-content: center"> 
+   <a>
+      <img 
+         alt="Shariful's Github Stats" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tanbin0001&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  
+         height="220px" 
+         width="49.7%" 
+      />
+   </a>
+   <a>
+      <img 
+         alt="Shariful's Top Languages" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tanbin0001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+         height="192px" 
+         width="49.8%" 
+      />
+   </a>
+</p>
+
+<a align="center" href="https://github.com/tanbin0001">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanbin0001&custom_title=Md.%20Belal%20Hossain's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Belal's Activity Graph" />
+</a>
