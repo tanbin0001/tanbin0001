@@ -127,7 +127,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbin0001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanbin0001&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanbin0001&theme=dark" alt="GitHub Streak" />
