@@ -122,7 +122,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
-
+<p style="display: flex; align-items: center; justify-content: center">
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbin0001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
@@ -135,7 +135,11 @@
          height="220px" 
          width="49.7%" 
       />
-   </a><p>
+   </a>
+   
+</p>
+
+   <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanbin0001&theme=dark" alt="GitHub Streak" />
 </p>
 
