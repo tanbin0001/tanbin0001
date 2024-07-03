@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh, currently working as a Software Engineer.</h3>
 
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner Image" width="100%">
+  <img src="[https://your-banner-image-url.com/banner.png](https://files.catbox.moe/rggpo7.png)" alt="Banner Image" width="100%">
 </p>
 
 <p align="center">
