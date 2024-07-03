@@ -3,7 +3,7 @@
 
  
 
-<p align="center">![www reallygreatsite com](https://github.com/tanbin0001/tanbin0001/assets/88830167/48652d08-73bc-48f2-bb0d-96e99611e93d)
+<p align="center"> 
 
   <img src="https://komarev.com/ghpvc/?username=tanbin0001&label=Profile%20views&color=0e75b6&style=flat" alt="tanbin0001" />
 </p>
