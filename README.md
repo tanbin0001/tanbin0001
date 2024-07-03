@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashrafuj Jaman Tanbin</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh, currently working as a Software Engineer.</h3>
 
- 
-
+<p align="center">
+ <img src="https://github.com/tanbin0001/tanbin0001/assets/88830167/42da5572-2bbb-4161-b2d8-ecc31af8090f" alt="banner" />
+</p>
 <p align="center"> 
 
   <img src="https://komarev.com/ghpvc/?username=tanbin0001&label=Profile%20views&color=0e75b6&style=flat" alt="tanbin0001" />
